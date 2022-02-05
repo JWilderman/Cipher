@@ -14,12 +14,12 @@ Visual Studio Code
 MinGW Compiler
 
 Prgramming Language:
-C++
+* C++
 
 Libraries:
-iostream
-string
-bits/stdc++.h
+* iostream
+* string
+* bits/stdc++.h
 
 # Useful Websites
 
